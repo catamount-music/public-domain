@@ -14,59 +14,57 @@ sounds is relative, and you need the references from each major step in the proc
 
 This process is working well for
 
-### Create MIX1
+### 1. Create MIX1
 
-1. BOUNCE the initial track (MIX1)
+BOUNCE the initial track (MIX1)
 
-### Organizing Steps
+### 2. Organizing Steps
 
-1. Apply LogicPro color scheme (`LogicProColorScheme.png`)
-2. Fix track groups (drums, multiple tracks of guitar or piano, etc.)
+1. Fix track groups (drums, multiple tracks of guitar or piano, etc.)
     * Group the tracks
     * Set relative levels
     * Use the same basic process in 2. above.
+2. Apply LogicPro color scheme (`LogicProColorScheme.png`)
 
-### Processing Individual Tracks
+### 3. Processing Individual Tracks
 
-3. Fix individual tracks
-    1. Comp the region stacks
-    2. Solo the track; list issues; fix anything that’s not in the section below
-    3. Consider the following effects in this order:
-        1. De-essing
-        2. Noise gate
-        3. EQ
-        4. Limiter
-        5. Compressor
+1. Comp the region stacks
+2. Solo the track; list issues; fix anything that’s not in the section below
+3. Consider the following effects in this order:
+   1. De-essing
+   2. Noise gate
+   3. EQ
+   4. Limiter
+   5. Compressor
 
-### Mixing Track Groups and Stacks
- 
-5. Set mix levels for track groups - basic initial mix
-    1. Review for any places with dynamics problems - for automation below
-    2. Review for any places with frequency competition (esp. in bass)
-    3. Review for any places where instruments are not separable and can’t be distinctly heard
+### 4. Mixing Track Groups and Stacks
 
-### Add Reverbs
+Set mix levels for track groups - basic initial mix
 
-    1. Plate reverb bus for really short reverb
-    2. Room reverb bus for main reverb
-    3. Custom reverb busses should the arrangement need it (separate one for vocals, or different parts of the drums, etc.)
+1. Review for any places with dynamics problems - for automation below
+2. Review for any places with frequency competition (esp. in bass)
+3. Review for any places where instruments are not separable and can’t be distinctly heard
 
-### Add Automation
+### 5. Add Reverbs
 
-    1. Volume
-    2. Stereo panning
-    3. Adjusting width of mix for different sections
-8. Add any other tweaks
-    1. Side-chain compression
+1. Plate reverb bus for really short reverb
+2. Room reverb bus for main reverb
+3. Custom reverb busses should the arrangement need it (separate one for vocals, or different parts of the drums, etc.)
 
-### Bounce the Rough Mix (MIX2)
+### 6. Add Automation
 
-    1. Fix any issues you notice
+1. Volume
+2. Stereo panning
+3. Adjusting width of mix for different sections
+4. Side-chain compression
 
+### 7. Bounce the Rough Mix (MIX2)
 
-### Bounce the Edited Rough Mix (MIX3)
+Fix any issues you notice
 
-### Quality Checks
+### 8. Bounce the Edited Rough Mix (MIX3)
+
+### 9. Quality Checks
 
 Run all of these to identify issues; there may be issues that are interrelated and solving one may 
 exacerbate another. Spot check after fixing issues, to mitigate the risk of making anything worse 
@@ -86,7 +84,8 @@ through attempted corrections.
     2. check headroom (peak over RMS in bass, mid, and treble)
 7. Take reverb down at the end so it doesn’t ring out the ending
 8. Make any changes related to quality findings
-9. BOUNCE the QA’d version (MIX3, should be FINAL MIX, or pre-master)
+
+### 10. BOUNCE the QA’d version (MIX3, should be FINAL MIX, or pre-master)
 
 ## Additional Considerations:
 
