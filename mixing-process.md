@@ -14,10 +14,20 @@ sounds is relative, and you need the references from each major step in the proc
 
 This process is working well for
 
-## Mixing Steps
+### Create MIX1
 
 1. BOUNCE the initial track (MIX1)
-2. Apply LogicPro color scheme (`LogicProColorScheme.png`)
+
+### Organizing Steps
+
+1. Apply LogicPro color scheme (`LogicProColorScheme.png`)
+2. Fix track groups (drums, multiple tracks of guitar or piano, etc.)
+    * Group the tracks
+    * Set relative levels
+    * Use the same basic process in 2. above.
+
+### Processing Individual Tracks
+
 3. Fix individual tracks
     1. Comp the region stacks
     2. Solo the track; list issues; fix anything that’s not in the section below
@@ -27,31 +37,40 @@ This process is working well for
         3. EQ
         4. Limiter
         5. Compressor
-4. Fix track groups (drums, multiple tracks of guitar or piano, etc.)
-    1. Group the tracks
-    2. Set relative levels
-    3. Use the same basic process in 2) above.
+
+### Mixing Track Groups and Stacks
+ 
 5. Set mix levels for track groups - basic initial mix
     1. Review for any places with dynamics problems - for automation below
     2. Review for any places with frequency competition (esp. in bass)
     3. Review for any places where instruments are not separable and can’t be distinctly heard
-6. Add reverbs
+
+### Add Reverbs
+
     1. Plate reverb bus for really short reverb
     2. Room reverb bus for main reverb
     3. Custom reverb busses should the arrangement need it (separate one for vocals, or different parts of the drums, etc.)
-7. Add automation
+
+### Add Automation
+
     1. Volume
     2. Stereo panning
     3. Adjusting width of mix for different sections
 8. Add any other tweaks
     1. Side-chain compression
-9. BOUNCE the mixed version (MIX2)
+
+### Bounce the Rough Mix (MIX2)
+
     1. Fix any issues you notice
-    2. BOUNCE the fixed mix (MIX2F)
 
-## Quality Checks
 
-Run all of these to identify issues; there may be issues that are interrelated and solving one may exacerbate another. Spot check after fixing issues, to mitigate the risk of making anything worse through attempted corrections.
+### Bounce the Edited Rough Mix (MIX3)
+
+### Quality Checks
+
+Run all of these to identify issues; there may be issues that are interrelated and solving one may 
+exacerbate another. Spot check after fixing issues, to mitigate the risk of making anything worse 
+through attempted corrections.
 
 1. Listen to final track for any distractions (pops, clicks, hisses, etc.) that can’t be taken out in mastering
 2. Identify any dynamic problems (hot spots, low spots, transients)
@@ -71,6 +90,6 @@ Run all of these to identify issues; there may be issues that are interrelated a
 
 ## Additional Considerations:
 
-- Do not use any effects you don’t need. Keep it simple.
-- If you can’t fix the track with four or five adjustments, do you need to go back and look at the performance, recording, or arrangement to fix it?
-- Should have a reference song to check against to see if the mix hits the target
+* Do not use any effects you don’t need. Keep it simple.
+* If you can’t fix the track with four or five adjustments, do you need to go back and look at the performance, recording, or arrangement to fix it?
+* Should have a reference song to check against to see if the mix hits the target
