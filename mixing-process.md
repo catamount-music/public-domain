@@ -4,6 +4,7 @@ For inspiration, I turned to Ansel Adams, of all people. He espoused that, while
 in the darkroom, taking and developing the negative so that it would produce the final print with the least amount
 of added processing produces the best image. I have reduced this to the following postulate:
 
+> [!TIP]
 > The best mix comes from the best tracks. The closer the tracks are to being mixable, the better the final product will be.
 
 ## Overview
@@ -17,7 +18,7 @@ We use a lot of acoustic instruments, including piano, guitar, and various percu
 
 ### 1. Create MIX1
 
-BOUNCE the initial track (MIX1)
+BOUNCE the initial track, `MIX1`
 
 ### 2. Organizing Steps
 
