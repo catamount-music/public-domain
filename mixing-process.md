@@ -93,7 +93,7 @@ through attempted corrections.
 - [ ] Check overall stereo levels
     1. Measure the output signals in db and lufs
     2. check headroom (peak over RMS in bass, mid, and treble)
-- [ ] Take reverb down at the end so it doesn’t ring out the ending
+- [ ] Take reverb down at the end so if it rings out the ending
 - [ ] Make any changes related to quality findings
 
 ### 10. BOUNCE the QA’d version (MIX4, should be FINAL MIX, or pre-master)
