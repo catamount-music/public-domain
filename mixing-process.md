@@ -105,3 +105,44 @@ through attempted corrections.
 * Do not use any effects you don’t need. Keep it simple.
 * If you can’t fix the track with four or five adjustments, review the the performance, recording, or arrangement to fix it.
 * A reference song should be identified as a comparison to see if the mix hits the target.
+
+## More tips to incorporate
+
+Use the same color coding for tracks, i.e., green for drums, red for bass, etc.
+Use the same arrangement for tracks, i.e., drums at top groups and master at bottom
+“Print the rough cut” - bounce the track after the rough initial mix so you have a reference
+Don’t mix longer than four hours
+Have a vision for what the song should sound like
+Some things can’t be fixed by mixing or EQ, especially when you have two or more competing instruments. Sometimes it can only be addressed by changing the arrangement or other pre-mixing techniques
+
+Check phase of samples, potentially reverse polarity of signal to avoid phase cancelation
+
+Five click rule. If you have to do more than five clicks to fix something, there must be a better way to do it, either through a workflow optimization, arrangement or recording technique, etc.
+
+Don’t need to master to any specific loudness.
+
+Soloing channel slows you down. When you fix something solo’d, it doesn’t necessarily work with the rest of the tracks
+
+There are some cases where you do need better gear, better monitoring environment, etc. Understand the limitations of your equipment
+
+There’s no formula or exact step by step
+
+Create space: relationship between melody and bass is the essence of the song - above reverb
+Can have several reverbs
+ 
+* short reverb like office or room if the mic was really close to the mouth
+* Plate reverb (this is the one you want to hear, but doesn’t connote size of room)
+* Wash is ambiance for the whole track that illustrates size of room
+
+You may have to deliver multiple versions of the same song
+
+1. Whole song
+2. Drums and bass only
+3. Instrumental only (no vocals)
+4. And so on
+
+May need to provide unmastered stems
+If you fix things in the master, they won’t apply to the versions above, so check those groups during the mixing process.
+Do this by using groups, track stacking, and bus sends to combine common instruments into stems (all strings, all percussion, etc.). 
+
+
