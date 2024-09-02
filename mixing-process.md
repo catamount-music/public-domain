@@ -1,7 +1,7 @@
 # Mixing Strategy
 
-For inspiration, I turned to Ansel Adams, of all people. He espoused that, while you can modify and fix a lot of things 
-in the darkroom, taking and developing the negative so that it would produce the final print with the least amount
+For inspiration, I turned to Ansel Adams. He espoused that while you can modify and fix a lot of things 
+in the darkroom, taking the photo and developing the negative so that it would produce the final print with the least amount
 of added processing produces the best image. I have reduced this to the following postulate:
 
 > [!TIP]
@@ -39,11 +39,11 @@ We use a lot of acoustic instruments, including piano, guitar, and various percu
 - [ ] Comp the region stacks
 - [ ] Solo the track; list issues; fix anything that’s not in the section below
 - [ ] Consider the following effects in this order:
-   1. De-essing
-   2. Noise gate
-   3. EQ
-   4. Limiter
-   5. Compressor
+1. De-essing
+2. Noise gate
+3. EQ
+4. Limiter
+5. Compressor
 
 ### 4. Mixing Track Groups and Stacks
 
