@@ -1,5 +1,6 @@
 # public-domain
-Repository for things we want to share freely with the world.
+
+This is a public domain repository for things we want to share. There are no restrictions on how they can be used, just mention us as the creators.
 
 ## Workflow Templates
 
