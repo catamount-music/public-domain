@@ -6,7 +6,9 @@ This is a public domain repository for things we want to share. There are no res
 
 ### Using color to organize
 
-`LogicProColorScheme.png` shows how we use color as a visual cue to understand what a Logic Pro project contains. We assign colors to track, regions, channel strips, and markers.
+`LogicProColorScheme.png` defines colors for tracks, regions, channel strips, and markers so we have a consistent visual reference. Work in progress for sure.
+
+`logic-pro-color-scheme.ai` is the Adobe Illustrator source file for the graphic.
 
 ### Mixing process
 
