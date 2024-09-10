@@ -1,9 +1,5 @@
 # Mixing Strategy
 
-For inspiration, I turned to Ansel Adams. He espoused that while you can modify and fix a lot of things 
-in the darkroom, taking the photo and developing the negative so that it would produce the final print with the least amount
-of added processing produces the best image. I have reduced this to the following postulate:
-
 > [!TIP]
 > The best mix comes from the best tracks. The closer the tracks are to being mixable, the better the final product will be.
 
