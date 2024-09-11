@@ -17,19 +17,10 @@ We use a lot of acoustic instruments, including piano, guitar, and various percu
 
 - [ ] BOUNCE the initial track, `MIX1`
 
-### 2. Organizing Steps
-
-- [ ] Fix track groups (drums, multiple tracks of guitar or piano, etc.)
-    * Group the tracks
-    * Set relative levels
-    * Use the same basic process in 2. above.
-- [ ] Apply LogicPro color scheme (`LogicProColorScheme.png`)
-
-### 3. Processing Individual Tracks
+### 2. Process Individual Tracks
 
 > [!IMPORTANT]
-> This step may be highly iterative, in that you'll need to process every group of tracks
-> for all the instruments in the composition.
+> This step is highly iterative, in that you'll need to process regions within tracks, and then tracks, and then groups of tracks in step 3.
 
 - [ ] Comp the region stacks
 - [ ] Solo the track; list issues; fix anything that’s not in the section below
@@ -39,6 +30,14 @@ We use a lot of acoustic instruments, including piano, guitar, and various percu
 3. EQ
 4. Limiter
 5. Compressor
+
+### 3. Organizing the Workspace
+
+- [ ] Fix track groups (drums, multiple tracks of guitar or piano, etc.)
+    * Group the tracks
+    * Set relative levels
+    * Use the same basic process in 2. above.
+- [ ] Apply LogicPro color scheme (`LogicProColorScheme.png`)
 
 ### 4. Mixing Track Groups and Stacks
 
