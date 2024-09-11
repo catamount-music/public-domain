@@ -5,9 +5,8 @@
 
 ## Overview
 
-This process encapsulates what I have learned from studying mixing online and experimenting with my own mixes in Logic Pro.
-The framework of the process is to bounce reference tracks at key points in the process, because the quality of how something
-sounds is relative, and you need the references from each major step in the process.
+The framework of the process is to work from region to track to track groups, bouncing reference tracks at key points in the process. The quality of how something
+sounds is relative and you need the references from each major step in the process.
 
 This process is working well for our kinds of recordings, typically production quality instrumental, pop, and niche songs with organic instrumentation.
 We use a lot of acoustic instruments, including piano, guitar, and various percussion instruments.
