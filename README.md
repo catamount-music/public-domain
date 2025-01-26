@@ -4,12 +4,6 @@ This is a public domain repository for things we want to share. There are no res
 
 ## Workflow Templates
 
-### Using color to organize
-
-`LogicProColorScheme.png` defines colors for tracks, regions, channel strips, and markers so we have a consistent visual reference. Work in progress for sure.
-
-`logic-pro-color-scheme.ai` is the Adobe Illustrator source file for the graphic.
-
 ### Mixing process
 
 `mixing-process.md` outlines the process we use to take a set of tracks and get it to pre-master state.
