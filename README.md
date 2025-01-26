@@ -10,7 +10,9 @@ This is a public domain repository for things we want to share. There are no res
 
 ## Sync Metadata
 
-`sync-metadata- .md` defines what metadata is critical, important, or nice and talks a bit about the challenges of working with multiple files.
+`sync-metadata-guidelines.md` defines what metadata is critical, important, or nice and talks a bit about the challenges of working with multiple files.
+
+`id3-metadata-notes.md` are notes from a session I attended at the 2024 Taxi Road Rally about audio file metadata for sync publishing run by the TrackStage people.
 
 ## License
 
