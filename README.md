@@ -2,12 +2,6 @@
 
 This is a public domain repository for things we want to share. There are no restrictions on how they can be used, just mention us as the creators.
 
-## Workflow Templates
-
-### Mixing process
-
-`mixing-process.md` outlines the process we use to take a set of tracks and get it to pre-master state.
-
 ## Sync Metadata
 
 `sync-metadata-guidelines.md` defines what metadata is critical, important, or nice and talks a bit about the challenges of working with multiple files.
