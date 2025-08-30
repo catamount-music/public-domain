@@ -2,6 +2,12 @@
 
 This is a public domain repository for things we want to share. There are no restrictions on how they can be used, just mention us as the creators.
 
+## LogicPro
+
+This contains templates, icons, and other LogicPro assets used to create and manipulate audio files.
+
+Current contents include templates and icons for MUSHRA testing.
+
 ## Sync Metadata
 
 `id3-metadata-notes.md` are notes from a session I attended at the 2024 Taxi Road Rally about audio file metadata for sync publishing run by the TrackStage people.
