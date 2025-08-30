@@ -3,7 +3,7 @@
 
 # Configuration
 IMAGE_DIR="track-icons"
-COLUMNS=4
+COLUMNS=5
 README_FILE="README.md"
 
 # Start writing the README file
@@ -26,7 +26,7 @@ echo $SEPARATOR >> $README_FILE
 
 # --- Find images and populate table ---
 i=0
-for img in $(ls -v $IMAGE_DIR/*thumb.png); do
+for img in $(ls -v $IMAGE_DIR/*.png); do
   # Start a new row if needed
   if [ $(($i % $COLUMNS)) -eq 0 ]; then
     # Print the previous row before starting a new one, unless it's the very first item
