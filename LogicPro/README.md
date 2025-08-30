@@ -4,8 +4,12 @@ A collection of all PNG images in the `track-icons` directory.
 
 
 To use...
+
+* Click (or right click) the track icon in LogicPro...
 * Click the + sign
 * Select all the icons in the finder and click Open
+
+All MUSHRA icons should now appear in the custom tab.
 | Image | Image | Image | Image |
 |:---:|:---:|:---:|:---:|
 | [![logic-pro-icons-1-medium-range-anchor-mushra.png](track-icons/logic-pro-icons-1-medium-range-anchor-mushra.png)](track-icons/logic-pro-icons-1-medium-range-anchor-mushra.png) |[![logic-pro-icons-10-signal-5-mushra.png](track-icons/logic-pro-icons-10-signal-5-mushra.png)](track-icons/logic-pro-icons-10-signal-5-mushra.png) |[![logic-pro-icons-11-signal-6-mushra.png](track-icons/logic-pro-icons-11-signal-6-mushra.png)](track-icons/logic-pro-icons-11-signal-6-mushra.png) |[![logic-pro-icons-12-signal-7-mushra.png](track-icons/logic-pro-icons-12-signal-7-mushra.png)](track-icons/logic-pro-icons-12-signal-7-mushra.png) ||

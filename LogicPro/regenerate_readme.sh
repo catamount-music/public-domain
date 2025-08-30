@@ -13,12 +13,12 @@ echo "A collection of all PNG images in the \`$IMAGE_DIR\` directory." >> $READM
 echo "" >> $README_FILE
 echo "" >> $README_FILE
 echo "To use..." >> $README_FILE
-echo "" >> README_FILE
-echo "* Click (or right click) the track icon in LogicPro..." >> README_FILE
+echo "" >> $README_FILE
+echo "* Click (or right click) the track icon in LogicPro..." >> $README_FILE
 echo "* Click the + sign" >> $README_FILE
 echo "* Select all the icons in the finder and click Open" >> $README_FILE
-echo "" >> README_FILE
-echo "All MUSHRA icons should now appear in the custom tab." >> README_FILE
+echo "" >> $README_FILE
+echo "All MUSHRA icons should now appear in the custom tab." >> $README_FILE
 # --- Create Table Header ---
 HEADER=""
 SEPARATOR=""
