@@ -8,6 +8,14 @@ This contains templates, icons, and other LogicPro assets used to create and man
 
 Current contents include templates and icons for MUSHRA testing.
 
+**NOTE:** In order to use the LogicPro template, you must move it to your LogicPro project templates. This looks something like
+
+`~/Music/Audio Music Apps/Project Templates`
+
+If you use a Mac for this, it will look like a `.logicx` file, so just copy that.
+If you are using the commmand line, it's actually a set of nested directories, so you have to copy the whole thing.
+
+
 ## Sync Metadata
 
 `id3-metadata-notes.md` are notes from a session I attended at the 2024 Taxi Road Rally about audio file metadata for sync publishing run by the TrackStage people.
