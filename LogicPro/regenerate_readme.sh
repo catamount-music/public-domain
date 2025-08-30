@@ -3,7 +3,7 @@
 
 # Configuration
 IMAGE_DIR="track-icons"
-COLUMNS=5
+COLUMNS=4
 README_FILE="README.md"
 
 # Start writing the README file
