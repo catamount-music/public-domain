@@ -3,19 +3,18 @@
 This is a public domain repository for things we want to share. There are no restrictions on how they can be used, just mention us as the creators.
 
 # LogicPro
-
 ## Overview
 
-This contains templates, icons, and other LogicPro assets used to create and manipulate audio files.
+This contains templates, icons, and other LogicPro assets used to create and manipulate audio files for MUSHRA testing.
 
-Current contents include templates and icons for MUSHRA testing.
-
-**NOTE:** In order to use the LogicPro template, you must move it to your LogicPro project templates. This looks something like
-
-`~/Music/Audio Music Apps/Project Templates`
-
-If you use a Mac for this, it will look like a `.logicx` file, so just copy that.
-If you are using the commmand line, it's actually a set of nested directories, so you have to copy the whole thing.
+> [!NOTE]
+> In order to use the LogicPro template, you must move it to your LogicPro project templates.
+> This location typically looks something like
+>
+>`~/Music/Audio Music Apps/Project Templates`
+>
+>If you use a Mac for this, it will look like a `.logicx` file, so just copy that.
+>If you are using the commmand line, it's actually a set of nested directories, so you have to copy the whole thing.
 
 ## Usage Notes 
 
