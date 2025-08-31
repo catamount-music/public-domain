@@ -2,7 +2,9 @@
 
 This is a public domain repository for things we want to share. There are no restrictions on how they can be used, just mention us as the creators.
 
-## LogicPro
+# LogicPro
+
+## Overview
 
 This contains templates, icons, and other LogicPro assets used to create and manipulate audio files.
 
@@ -15,6 +17,25 @@ Current contents include templates and icons for MUSHRA testing.
 If you use a Mac for this, it will look like a `.logicx` file, so just copy that.
 If you are using the commmand line, it's actually a set of nested directories, so you have to copy the whole thing.
 
+## Usage Notes 
+
+The template is designed so that you can drop a set of audio files into each track, starting a `bar 1`.
+Two tracks, `Track 11` and `Track 12`, are special because they have LogicPro linear EQ plugins that create the low and mid-range anchor versions of the track.
+Here is a typical workflow:
+
+1. Drag existing audio track in and place them in the appropriate tracks
+2. Copy the pristing original audio file to `track 11` and to `track 12`
+3. Bounce `track 11` and `track 12` in place
+4. Drag the resulting bounce regions to `track 8` and `track 9`. These are the anchors.
+5. The cycle range is set to 4 bars at 96 bpm. This is exactly a 10 second fragment.
+6. Select an area good for test audio (with dynamic and other variations over the 10 seconds)
+7. With the cycle range set, bounce all tracks from the top down to the anchor folder. This should export a 10 second fragment from all tracks. These are your signal files. 
+
+> [!TIP]
+> The template has five signals by default, but you can add up to four more. Track icons for all are located in this same distribution.
+>
+> Also note that the signal files generated for each audio test have to be randomized so they aren't in the same order for each assessment.
+>
 
 ## Sync Metadata
 
