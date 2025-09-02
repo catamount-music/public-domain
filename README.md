@@ -36,6 +36,13 @@ Here is a typical workflow:
 > Also note that the signal files generated for each audio test have to be randomized so they aren't in the same order for each assessment.
 >
 
+## Linear Phase EQ settings
+
+This distro also includes saved settings for the low and mid-range anchors, which are implemented using the default LogicPro Linear Phase EQ.
+Actually, two of them with the same filter, so they stack and create the severe drop-off required. These are located in the `LogicPro/settings/linear-phase-eq` folder. 
+To use them, copy the `.pst` files to `~/Music/You can copy them to `/Music/Audio Music Apps/Plug-In Settings/Linear Phase EQ/`.
+They should subsequently be loadable from the Linear Phase EQ plug-in file panel.
+
 ## Sync Metadata
 
 `id3-metadata-notes.md` are notes from a session I attended at the 2024 Taxi Road Rally about audio file metadata for sync publishing run by the TrackStage people.
